@@ -1,4 +1,3 @@
-# dash_crm_sync
 
 # Company Matching Script
 This Python script is designed to process a CSV file containing information about company names, parent-child relationships, and similarity scores, and output the matching results in JSON format. The script aims to simplify the structure of the matching results for easier analysis, manipulation and to determine matching entities in CRM-DASH. 
@@ -32,7 +31,7 @@ The matching results are stored in a JSON file. The structure of the JSON output
             {
                 "id": null,
                 "similarity": 0.6318,
-                "companyName": "3411 1st Avenue Point, LLC "
+                "companyName": "Company A, LLC "
             }
         ]
     },
